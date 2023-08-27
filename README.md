@@ -1,4 +1,6 @@
-# 2D-Sprite-Dungeon
+# GemBlade
+
+INSTRUCTIONS: WASD to move.
 
 OBJECTIVE: Defeat the Enemy
 
